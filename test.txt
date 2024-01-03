@@ -1,3 +1,5 @@
 This is again a commit!
  
 And here we go with commit #2!
+
+Learning how to commit! This was created in VS Code.
